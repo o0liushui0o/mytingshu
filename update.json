@@ -1,7 +1,7 @@
 {
-    "version": 9,
-    "entry_package": "sources_by_open115",
-    "download_url": "https://raw.githubusercontent.com/o0liushui0o/mytingshu/main/sources_by_open115.jar",
-    "update_msg": "minimal test v9",
+    "version": 10,
+    "entry_package": "sources_by_eprendre",
+    "download_url": "https://raw.githubusercontent.com/o0liushui0o/mytingshu/main/sources_by_eprendre_v10.jar",
+    "update_msg": "v10: full build + Cloud115",
     "support_url": ""
 }
